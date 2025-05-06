@@ -160,7 +160,10 @@ NODE_ENV=development
 - `GET /api/users` - Get all users
 - `GET /api/users/:id` - Get a specific user
 - `PUT /api/users/:id` - Update a user
-
+### Notyfication
+- `GET /api/notifications` - Get all notifications
+- `GET /api/notifications/:id` - Get a specific notifications
+- `PUT /api/notifications/:id` - Update a notifications
 ## 🏗️ Project Structure
 
 ```
